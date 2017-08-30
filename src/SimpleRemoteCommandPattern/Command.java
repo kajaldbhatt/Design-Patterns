@@ -1,0 +1,5 @@
+package SimpleRemoteCommandPattern;
+
+public interface Command {
+	public void execute();
+}
